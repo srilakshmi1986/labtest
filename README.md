@@ -1,2 +1,2 @@
 # labtest
-lab test repo
+lab test repo for git commands
